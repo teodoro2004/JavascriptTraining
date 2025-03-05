@@ -22,3 +22,5 @@ function createTechList() {
   }
 
   console.log(createTechList());
+
+  // alteraçÃo do cÓdigo
